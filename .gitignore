@@ -1,9 +1,14 @@
-```gitignore
+# Dependencies
 node_modules/
+# Build
 dist/
 build/
+# Logs
 *.log
-.env
+# IDE
+.vscode/
+.idea/
+*.sublime-workspace
+# OS
 .DS_Store
 Thumbs.db
-```
